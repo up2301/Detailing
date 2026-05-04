@@ -70,10 +70,11 @@ button, input, select, textarea {
   align-items: center;
 }
 
+/* Adjust logo size */
 .brand .logo {
-  width: 50px; /* Adjust the logo size */
+  width: 80px; /* Increased size */
   height: auto;
-  margin-right: 10px; /* Space between logo and brand name */
+  margin-right: 15px; /* Increased margin for spacing */
 }
 
 .site-nav {
